@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="jeke_intro">Hello World! My name is Abdirahman and i love andriod development and golden retrievers</string>
+    <string name="button_text">Say Hello</string>
+</resources>
