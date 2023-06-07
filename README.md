@@ -1,6 +1,6 @@
 # Android Prework - *Simple TO DO*
 
-Submitted by: **Abdinahmen Ahmede**
+Submitted by: **Abdinahmen Ahmed**
 
 **HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
